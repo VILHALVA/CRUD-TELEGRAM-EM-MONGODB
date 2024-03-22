@@ -21,27 +21,7 @@ Este bot do Telegram oferece uma variedade de recursos para gerenciar uma lista 
 
 7. **Operações CRUD**: Este bot segue o paradigma CRUD (Create, Read, Update, Delete), permitindo que as pessoas realizem todas as operações básicas de manipulação de dados em uma lista de usuários diretamente do Telegram.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-**Passo 1:** Clone o repositório para o seu sistema local.
-
-```bash
-git clone https://github.com/VILHALVA/CRUD-TELEBOT-EM-MONGODB.git
-```
-
-**Passo 2:** Navegue até o diretório do projeto.
-
-```bash
-cd CRUD-TELEBOT-EM-MONGODB
-```
-
-**Passo 3:** Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CRUD-TELEBOT-EM-MONGODB.zip
-```
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Conectando o MONGODB:**
 
    - Antes de você executar o bot, você precisa conectar o MONGODB. Para deixar o MongoDB ligado e executando, você pode seguir estas instruções:
@@ -78,6 +58,8 @@ unzip CRUD-TELEBOT-EM-MONGODB.zip
 ```
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de boas-vindas e clique no botão inline.
 
-## CREDITOS:
+## SAIBA MAIS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
 
