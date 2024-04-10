@@ -23,33 +23,13 @@ Este bot do Telegram oferece uma variedade de recursos para gerenciar uma lista 
 
 ## EXECUTANDO O PROJETO:
 1. **Conectando o MONGODB:**
-
-   - Antes de você executar o bot, você precisa conectar o MONGODB. Para deixar o MongoDB ligado e executando, você pode seguir estas instruções:
-
-   1. **Iniciar o Servidor MongoDB:**
-      - No prompt de comando (Windows) ou no terminal (macOS/Linux), execute o seguinte comando para iniciar o servidor MongoDB:
-      ```
-      mongod
-      ```
-      - Se o MongoDB estiver instalado corretamente e as variáveis de ambiente estiverem configuradas, o servidor será iniciado e estará pronto para aceitar conexões.
-
-   2. **Verificar se o MongoDB está em execução:**
-      - Após iniciar o servidor, você pode verificar se o MongoDB está em execução abrindo outro prompt de comando/terminal e executando o seguinte comando:
-      ```
-      mongo
-      ```
-      - Isso abrirá o shell do MongoDB, que estará conectado ao servidor local por padrão. Se você ver uma mensagem indicando que está conectado ao servidor, então ele está em execução.
-
-   3. **Manter o Terminal Aberto:**
-      - Para manter o MongoDB em execução enquanto você estiver usando sua aplicação Python, é importante manter o terminal aberto onde você iniciou o servidor MongoDB.
-
-   - Se você não estiver familiarizado com esses passos, confira nosso [curso completo de MONGODB](https://github.com/VILHALVA/CURSO-DE-MONGODB) para obter orientações detalhadas.
+   - Antes de você executar o bot, você precisa conectar o MONGODB. Para deixar o MongoDB ligado e executando.
 
 2. **Editar o código:**
    - Certifique-se de ter um servidor MongoDB em execução localmente na porta padrão (27017), ou ajuste a URL de conexão de acordo com sua configuração.
 
 3. **Coloque o Token:**
-   - Antes de executar o programa, é necessário substituir o token do seu bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. Se você não estiver familiarizado com esses passos, confira nosso [curso completo sobre a criação de bots no Telegram](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT) para obter orientações detalhadas.
+   - Antes de executar o programa, é necessário substituir o token do seu bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina.
 
 4. **Inicie o Bot:**
    - Execute o bot do Telegram em Python iniciando-o com o seguinte comando:
@@ -60,6 +40,7 @@ Este bot do Telegram oferece uma variedade de recursos para gerenciar uma lista 
 
 ## SAIBA MAIS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+- [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
+- [CURSO DE MONGODB](https://github.com/VILHALVA/CURSO-DE-MONGODB)
 
 
