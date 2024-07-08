@@ -24,20 +24,18 @@ Este bot do Telegram oferece uma variedade de recursos para gerenciar uma lista 
 ## EXECUTANDO O PROJETO:
 1. **Conectando o MONGODB:**
    - Antes de você executar o bot, você precisa conectar o MONGODB. Para deixar o MongoDB ligado e executando.
-
-2. **Editar o código:**
    - Certifique-se de ter um servidor MongoDB em execução localmente na porta padrão (27017), ou ajuste a URL de conexão de acordo com sua configuração.
 
-3. **Instalando as dependências:**
+2. **Instalando as dependências:**
    - Antes de executar o bot, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` em `CODIGO`:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Coloque o Token:**
-   - Antes de executar o programa, é necessário substituir o token do seu bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina.
+3. **Coloque o Token:**
+   - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). 
 
-5. **Inicie o Bot:**
+4. **Inicie o Bot:**
    - Execute o bot do Telegram em Python iniciando-o com o seguinte comando em `CODIGO`:
    ```bash
    python CODIGO.py
